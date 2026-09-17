@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+.venv/
+venv/
+env/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node, Next.js, and generated frontend output
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/dist/
+frontend/tsconfig*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# IDE and OS metadata
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs and local runtime output
+*.log
+.streamlit/secrets.toml
+
+# Optional production data and duplicate extracted checkpoints
+data/*.pt
+data/*.json
+assets/model_epoch8_score0.3792/
+!data/.gitkeep
+!assets/.gitkeep

@@ -1,0 +1,3 @@
+Place your training artefacts here:
+  - hetionet_data.pt      (PyG HeteroData with 384-dim node features)
+  - node_mappings.json    ({node_type: {idx: human_name}})
