@@ -41,23 +41,19 @@ FastAPI (/api/v1 and /api)
 
 ## Screenshots
 
-<details>
-<summary>Click to view screenshots</summary>
-<br>
-<img src="./img/screenshot1.png" width="800">
-<br><br>
-<img src="./img/screenshot2.png" width="800">
-<br><br>
-<img src="./img/screenshot3.png" width="800">
-<br><br>
-<img src="./img/screenshot4.png" width="800">
-<br><br>
-<img src="./img/screenshot5.png" width="800">
-<br><br>
-<img src="./img/screenshot6.png" width="800">
-<br><br>
-<img src="./img/screenshot7.png" width="800">
-</details>
+![Screenshot 1](./img/screenshot1.png)
+
+![Screenshot 2](./img/screenshot2.png)
+
+![Screenshot 3](./img/screenshot3.png)
+
+![Screenshot 4](./img/screenshot4.png)
+
+![Screenshot 5](./img/screenshot5.png)
+
+![Screenshot 6](./img/screenshot6.png)
+
+![Screenshot 7](./img/screenshot7.png)
 
 ## Technology Stack
 
