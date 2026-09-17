@@ -1,6 +1,6 @@
-# HELIXX Biomedical Intelligence
+# HELIX-X Biomedical Intelligence
 
-HELIXX is a local biomedical intelligence prototype for exploring compound-disease hypotheses with a heterogeneous graph neural network. It combines a FastAPI inference service with a Next.js and React interface for candidate ranking and deterministic graph evidence.
+HELIX-X is a local biomedical intelligence prototype for exploring compound-disease hypotheses with a heterogeneous graph neural network. It combines a FastAPI inference service with a Next.js and React interface for candidate ranking and deterministic graph evidence.
 
 ## What It Does
 
