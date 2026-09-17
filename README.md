@@ -39,6 +39,21 @@ FastAPI (/api/v1 and /api)
 - Explicit demo, production, and unavailable states.
 - No external API key, LLM, PubMed, or literature retrieval dependency.
 
+## Screenshots
+
+<details>
+<summary>Click to view screenshots</summary>
+
+![Screenshot 1](img/screenshot1.png)
+![Screenshot 2](img/screenshot2.png)
+![Screenshot 3](img/screenshot3.png)
+![Screenshot 4](img/screenshot4.png)
+![Screenshot 5](img/screenshot5.png)
+![Screenshot 6](img/screenshot6.png)
+![Screenshot 7](img/screenshot7.png)
+
+</details>
+
 ## Technology Stack
 
 - Python, PyTorch, and PyTorch Geometric
